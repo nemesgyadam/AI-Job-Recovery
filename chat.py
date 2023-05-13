@@ -3,7 +3,7 @@ import yaml
 import openai
 import argparse
 
-from utils.parser import load_config
+from utils.load_config import read_yaml
 
 
 openai.api_key = os.getenv("OPENAI_API_KEY")

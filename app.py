@@ -4,8 +4,7 @@ import argparse
 
 from flask import Flask, request, render_template, jsonify
 
-from utils.parser import load_config
-
+from utils.load_config import read_yaml
 # Your OpenAI key and other configuration
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
