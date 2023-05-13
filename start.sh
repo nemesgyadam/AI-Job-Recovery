@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python app.py --config Hermes --temp 0.8
+python app.py --config Hermes-EN --temp 0.8

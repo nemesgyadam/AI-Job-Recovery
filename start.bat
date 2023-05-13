@@ -1,2 +1,3 @@
 @echo off
-python app.py --config Hermes --temp 0.8
+venv\Scripts\activate && ^
+python app.py --config Hermes-EN --temp 0.8

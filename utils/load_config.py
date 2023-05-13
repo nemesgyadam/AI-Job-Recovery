@@ -9,6 +9,6 @@ CONFIG_ROOT = "config"
 def read_yaml(file_path):
     if not file_path.endswith(".yml"):
         file_path += ".yml"
-    with open(os.path.join(CONFIG_ROOT, file_path), "r") as file:
+    with open(os.path.join(CONFIG_ROOT, file_path), "r", encoding='utf8') as file:
         data = yaml.safe_load(file)
     return data["context"]

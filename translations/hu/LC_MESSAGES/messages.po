@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Language: hu\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Type your message here..."
+msgstr "Ide gépelhet..."
+
+msgid "Hermes - Job Recovery"
+msgstr "Hermész - Újra munkában"
+
+
+msgid "You"
+msgstr "Ön"
+
+msgid "Hermes"
+msgstr "Hermész"
+
+
+msgid "We_understand"
+msgstr "Megértjük, hogy nehéz időket élünk, és itt vagyunk, hogy útmutatást és támogatást nyújtsunk. Beszélgessünk, és segítünk neked átvészelni ezt az átmeneti időszakot."
+
+msgid "Remember, every end is a new beginning. Together, we can embrace this change and look forward to new opportunities. Stay strong!"
+msgstr "Ne feledd, minden vég egy új kezdet. Együtt képesek vagyunk szembenézni ezzel a változással, és várjuk az új lehetőségeket. Kitartás!"
+
+
+msgid "welcome_msg"
+msgstr "Üdvözöllek, Hermész vagyok! Tudom, hogy ezek a idők kihívást jelenthetnek számodra, de ne feledd, minden vihar után jön a szivárvány. Itt vagyok, hogy segítsek neked ebben az átmeneti időszakban. Fedezzük fel együtt az új lehetőségeket. Csak írd be az üzenetedet lent, és kezdjük el ezt az utazást. Vegyél egy mély lélegzetet, nem vagy egyedül ebben. Megvan bennünk a szükséges erő!"
+msgid "links_title"
+msgstr "Hasznos Linkek"
+
+msgid "link1_text"
+msgstr "Digitális Munka"
+
+msgid "link2_text"
+msgstr "CodeBerry Programozóiskola"
+
+msgid "link3_text"
+msgstr "Coursera - Tanfolyamok magyar nyelven"
+
+msgid "link4_text"
+msgstr "Udemy - Tanfolyamok magyar nyelven"
+
+msgid "link1_url"
+msgstr "https://www.digitalismunka.hu/"
+
+msgid "link2_url"
+msgstr "https://www.codeberryschool.com/"
+
+msgid "link3_url"
+msgstr "https://www.coursera.org/courses?languages=hu&query="
+
+msgid "link4_url"
+msgstr "https://www.udemy.com/courses/search/?q=magyar&lang=hu"

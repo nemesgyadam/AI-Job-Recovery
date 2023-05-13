@@ -37,7 +37,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--temp", default=0, help="Temperatuer of the model")
     args = parser.parse_args()
-    args.Agent = args.config.split(".")[0]
+    args.Agent = args.config.split(".")[0].split("-")[0]
 
     global model
     global temperature

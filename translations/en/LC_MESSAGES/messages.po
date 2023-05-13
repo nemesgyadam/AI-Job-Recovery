@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Type your message here..."
+msgstr "Type your message here..."
+
+msgid "Hermes - Job Recovery"
+msgstr "Hermes - Job Recovery"
+
+
+msgid "You"
+msgstr "You"
+
+msgid "Hermes"
+msgstr "Hermes"
+
+msgid "We_understand"
+msgstr "We understand that times are tough, and we're here to provide guidance and support. Let's chat, and we'll help you navigate this transition."
+
+msgid "Remember, every end is a new beginning. Together, we can embrace this change and look forward to new opportunities. Stay strong!"
+msgstr "Remember, every end is a new beginning. Together, we can embrace this change and look forward to new opportunities. Stay strong!"
+
+
+msgid "welcome_msg"
+msgstr "Welcome. I'm Hermes! I know that these times might be challenging for you, but remember, every storm is followed by a rainbow. I'm here to help you navigate through this transition. Let's explore new opportunities together. Just type your message below and let's start this journey. Take a deep breath, you're not alone in this. We've got this!"
+
+msgid "links_title"
+msgstr "Useful Resources"
+
+msgid "link1_text"
+msgstr "Reskill America"
+
+msgid "link2_text"
+msgstr "Google IT Support Professional Certificate"
+
+msgid "link3_text"
+msgstr "Free Code Camp"
+
+msgid "link4_text"
+msgstr "LinkedIn Learning"
+
+msgid "link1_url"
+msgstr "https://reskillamericans.org/"
+
+msgid "link2_url"
+msgstr "https://www.coursera.org/professional-certificates/google-it-support"
+
+msgid "link3_url"
+msgstr "https://www.freecodecamp.org/"
+
+msgid "link4_url"
+msgstr "https://www.linkedin.com/learning/"
